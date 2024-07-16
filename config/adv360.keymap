@@ -83,7 +83,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                                           &trans          &trans          &trans        &trans           &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                                           &trans          &trans        &kp HOME       &kp END           &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans               &trans              &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                                                   &trans          &trans        &trans           &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                                                   &trans   &kp BACKSPACE    &kp DELETE           &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &kp LC(RIGHT_ARROW)  &kp LC(LEFT_ARROW)                          &trans        &trans           &trans  &trans  &trans
             >;
         };
